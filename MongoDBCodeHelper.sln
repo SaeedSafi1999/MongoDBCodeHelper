@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRC", "SRC", "{7C4879CE-26A7-4457-8033-97D4D5055D70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDBCodeHelperLibrary", "MongoDBCodeHelperLibrary", "{CAD99F63-726E-488F-820E-623727DBB086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBCodeHelper", "MongoDBCodeHelper\MongoDBCodeHelper.csproj", "{FF8F16AE-062E-4072-9FFD-7088129EC3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CAD99F63-726E-488F-820E-623727DBB086} = {7C4879CE-26A7-4457-8033-97D4D5055D70}
+		{FF8F16AE-062E-4072-9FFD-7088129EC3DC} = {CAD99F63-726E-488F-820E-623727DBB086}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
