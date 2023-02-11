@@ -4,7 +4,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRC", "SRC", "{7C4879CE-26A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDBCodeHelperLibrary", "MongoDBCodeHelperLibrary", "{CAD99F63-726E-488F-820E-623727DBB086}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBCodeHelper", "MongoDBCodeHelper\MongoDBCodeHelper.csproj", "{FF8F16AE-062E-4072-9FFD-7088129EC3DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBHelper", "MongoDBHelper\MongoDBHelper.csproj", "{EDC1AD5B-2A86-4E62-B7D6-10CB7AD13C60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,12 +13,12 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CAD99F63-726E-488F-820E-623727DBB086} = {7C4879CE-26A7-4457-8033-97D4D5055D70}
-		{FF8F16AE-062E-4072-9FFD-7088129EC3DC} = {CAD99F63-726E-488F-820E-623727DBB086}
+		{EDC1AD5B-2A86-4E62-B7D6-10CB7AD13C60} = {CAD99F63-726E-488F-820E-623727DBB086}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF8F16AE-062E-4072-9FFD-7088129EC3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC1AD5B-2A86-4E62-B7D6-10CB7AD13C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC1AD5B-2A86-4E62-B7D6-10CB7AD13C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC1AD5B-2A86-4E62-B7D6-10CB7AD13C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC1AD5B-2A86-4E62-B7D6-10CB7AD13C60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
